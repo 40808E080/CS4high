@@ -41,16 +41,38 @@ print(sum)
 ```
 使用For 迴圈(loop)計算1+3+5+7.....+102
 sum=0
-
+```
+```
 for x in range(1,102):
    sum +=x
+```
   
 print(sum)
 ```
 ### 程式設計題
 ```
-使用while 迴圈(loop)計算1+2+3+.....103
+使用while 迴圈(loop)計算1+2+3+.....100
 ```
 ```
-使用while 迴圈(loop)計算1+3+5+7.....+100
+a=0
+b=1
+while b<101:
+ a +=b
+ print(a)
+b=b+1
+
+5050
+```
+```
+使用while 迴圈(loop)計算1+3+5+7.....+99
+```
+```
+a=0
+b=1
+while b<101:
+ a +=b
+ print(a)
+ b=b+2
+ 
+2500
 ```
