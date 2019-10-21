@@ -2,19 +2,29 @@
 
 # For 迴圈(loop)
 ```
-for name in ['orange', 'apple']:
+for name in ['ball', 'key']:
 	print(name)
-
+答案
+ball
+key
 ```
 
 ```
-for index in range(0, 6):
+for index in range(0, 7):
 	print(index)
-
+答案
+0
+1
+2
+3
+4
+5
+6
 ```
 
 ```
 使用For 迴圈(loop)計算1+2+3+.....100
+
 答案
 sum=0
 
