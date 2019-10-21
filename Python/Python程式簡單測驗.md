@@ -15,8 +15,6 @@ for index in range(0, 6):
 
 ```
 使用For 迴圈(loop)計算1+2+3+.....100
-```
-```
 答案
 sum=0
 
