@@ -16,6 +16,14 @@ for index in range(0, 6):
 ```
 使用For 迴圈(loop)計算1+2+3+.....100
 ```
+```
+sum=0
+
+for x in range(1,101):
+   sum +=x
+```
+  
+print(sum)
 # while 迴圈(loop)
 
 ### 程式設計題
