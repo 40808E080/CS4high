@@ -43,7 +43,7 @@ print(sum)
 sum=0
 ```
 ```
-for x in range(1,102):
+for x in range(1,102,2):
    sum +=x
 ```
   
